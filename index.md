@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-
-<title>電動車的興起</title>
-隨著環保意識越來越高
+### 電動車的興起
 
 ### Markdown
 
