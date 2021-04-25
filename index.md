@@ -106,3 +106,5 @@ Gogoro電動機車本身不便宜，買車之後還須依照里程數支付月�
 |VIVA plus |58980 |
 
 價格由高至低比較：S1>1 plus>S2 ABS>S2=S3 ABS>勁戰五代 ABS>Racing S 150 ABS>S3>2 plus ABS>Racing S 150>Force>Racing S 125>勁戰五代>FNX>2 plus>Jet S>勁戰四代>3 plus>3>VIVA plus>VIVA
+
+![Image](https://www.moea.gov.tw/mns/DOS/bulletin/wHandBulletin_Image.ashx?bull_id=5956&serial_no=1&thumb=1)
