@@ -1,16 +1,18 @@
 # 電動車的興起
 
-#### Gogoro介紹
+### Gogoro介紹
 
 Gogoro屬於所有電動機車類型中的普通重型電動機車：功率超過5馬力，但低於40馬力。須掛牌、需駕照、須戴安全帽，可兩人騎乘。
 
-#### 比較一般機車及電動機車油錢及電費：一般機車勝
+### 比較一般機車及電動機車油錢及電費：一般機車勝
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+一般的機車，每個月主要開銷就是油錢，但不見得每個月都需要保養。如果以125cc的新車來試算，新車的平均油耗是50公里／公升，假設平均每個月上下班要騎350公里，以95無鉛汽油的價位30.xx來說，大約需要七公升、也就是210元左右的油錢。
+近日Gogoro電動機車的資費試算網頁，輸入每月350公里的里程後，得到建議資費方案為暢遊方案、服務月費＄499／月（送保養）以及內含300公里的騎乘里數；額外里程計費則為＄2.5／公里，若以同上騎乘距離350公里來算，還要再支付$125的額外里程費用，總金額為＄624元，比起一般機車花費較多。
 
-### Jekyll Themes
+### 比較一般機車及Gogoro的稅賦金額：Gogoro勝
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s07410315/s07410315DataJournalism/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+在稅賦部分，排氣量150cc以下的機車是免牌照稅的，所以Gogoro電動機車是不需要繳牌照稅的喔！至於強制險，則是只要購車上路，所有機車都一定要投保。
+最後就是燃料稅，一般機車每年都需要繳交燃料稅，而Gogoro電動機車因為沒有使用汽油，所以不需要繳交燃料稅
 
 ### Support or Contact
 
