@@ -2,25 +2,9 @@
 
 #### Gogoro介紹
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Gogoro屬於所有電動機車類型中的普通重型電動機車：功率超過5馬力，但低於40馬力。須掛牌、需駕照、須戴安全帽，可兩人騎乘。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+#### 比較一般機車及電動機車油錢及電費：一般機車勝
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
