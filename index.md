@@ -16,7 +16,13 @@ Gogoro屬於所有電動機車類型中的普通重型電動機車：功率超�
 
 ### Gogoro的優點
 
+<<<<<<< HEAD
 1.	安靜:Gogoro電動機車的主要優點絕對是安靜。  ![Image](https://beauty-upgrade.tw/wp-content/uploads/2019/05/43000422_1836065043114861_3939796113623613440_n-238x300.jpg)
+=======
+1.	安靜:Gogoro電動機車的主要優點絕對是安靜。
+
+![Image](https://beauty-upgrade.tw/wp-content/uploads/2019/05/43000422_1836065043114861_3939796113623613440_n-238x300.jpg)
+>>>>>>> c670d8e591eeb59d0bb10c2f1c375837551e954b
 
 2.	不會被燙傷
 Gogoro電動機車因為沒有排氣管，所以不會有排氣管燙傷人的風險。
